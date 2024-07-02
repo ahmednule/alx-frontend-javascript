@@ -1,0 +1,10 @@
+#ignore package.json
+package.json
+
+#babel.config.js ignore
+babel.config.js
+
+# ignore .eslintrc.js
+.eslintrc.js
+
+node_modules/
